@@ -8,7 +8,7 @@ Slightly customized React project Eslint configuration based on Airbnb and Prett
 1.  Run:
 
 ```bash
-yarn add -D eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react
+yarn add -D eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react babel-eslint
 ```
 
 ### package.json script
